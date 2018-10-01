@@ -1,0 +1,10 @@
+body{
+background-color: #63E161;
+}
+
+textarea{
+  display: block;
+  min-height: 80px;
+  min-width: 300px;
+  margin-bottom: 5px;
+}
